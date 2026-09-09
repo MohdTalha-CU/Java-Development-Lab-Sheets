@@ -9,7 +9,6 @@ public class Question10 {
 
         System.out.println("Enter elements of 3 x 3 matrix:");
 
-        // Input matrix
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 matrix[i][j] = sc.nextInt();
